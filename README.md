@@ -1,2 +1,2 @@
-# use_selene
+# Use Selene (Sample)
 First experience using Selene
